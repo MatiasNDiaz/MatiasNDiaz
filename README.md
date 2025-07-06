@@ -1,5 +1,5 @@
 <h1 align="start">¡Hola! Soy Matías Nahuel Díaz 👋</h1>
-<h3 align="start">💻Desarrollador Web Frontend con fuerte enfoque en UI/UX</h3>
+<h3 align="start">🖥 Desarrollador Web Frontend | con fuerte enfoque en UI/UX</h3>
 
 <div align="center">
 <img src="https://i.imgur.com/hbchVyv.gif" alt="Pixel Art Banner" width="100%" />
