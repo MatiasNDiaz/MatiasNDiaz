@@ -19,6 +19,10 @@ Me caracterizo por ser adaptable, proactivo y orientado a resultados, siempre bu
 
 Me especializo en construir sitios web visualmente atractivos, modernos, responsivos y centrados en la experiencia del usuario. Aplico buenas prácticas de UI/UX para garantizar que cada interacción sea fluida, cómoda y efectiva.
 
+---
+
+## 🌟 Proyectos destacados
+
 Durante mi formación en Soy Henry, desarrollé proyectos complejos que simulan entornos laborales reales, como:
 
 ![E-commerce](https://img.shields.io/badge/E--commerce-1D4ED8?style=for-the-badge&logo=shopify&logoColor=white)  
@@ -80,13 +84,15 @@ Cuento con experiencia práctica en integración de APIs REST, consumo de servic
 
 ## 💼 Experiencia laboral
 
-
 🚀 Teaching Assistant — Bootcamp Desarrollo Web, Soy Henry
 Como Teaching Assistant en el bootcamp de Soy Henry, acompañé de cerca a un grupo de futuros desarrolladores en su proceso formativo, brindando mentoría técnica, motivación constante y apoyo en la resolución de desafíos reales. Colaboré activamente en la revisión de código, la implementación de buenas prácticas y la construcción de interfaces accesibles, responsivas y escalables utilizando tecnologías como React, Next.js, TypeScript, Tailwind CSS y fundamentos sólidos de UI/UX.
 
 Mi enfoque estuvo centrado en potenciar la autonomía, el pensamiento crítico y el trabajo en equipo, creando un entorno colaborativo donde los estudiantes pudieran superar bloqueos técnicos, desarrollar confianza en sus habilidades y alcanzar sus objetivos semanales. Esta experiencia fortaleció mi capacidad para comunicarme de manera clara, resolver problemas en tiempo real y liderar procesos de aprendizaje técnico con impacto tangible.
 
-📫 Contacto
+---
+
+## 📫 Contacto
+
 Estoy buscando formar parte de un equipo donde pueda aportar valor como Desarrollador Web Frontend, seguir aprendiendo, compartir conocimientos y construir productos de calidad. Si estás buscando a alguien comprometido con el código limpio, la experiencia del usuario y el trabajo colaborativo, ¡conversemos!
 
 - 📧 **Email:** matidiazargentino21@gmail.com  
