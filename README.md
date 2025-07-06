@@ -9,7 +9,7 @@
 
 ## 🧠 Quién soy
 
-Soy un desarrollador web con mentalidad de crecimiento, perseverante y resolutivo, con gran capacidad para el trabajo en equipo. Me apasiona aprender constantemente y superar desafíos que me permitan evolucionar tanto profesional como personalmente.
+Soy un Desarrollador web con enfoque en frontend, especializado en la construcción y diseño de interfaces modernas, intuitivas y responsivas. con mentalidad de crecimiento, perseverante y resolutivo, con gran capacidad para el trabajo en equipo. Me apasiona aprender constantemente y superar desafíos que me permitan evolucionar tanto profesional como personalmente.
 
 Me caracterizo por ser adaptable, proactivo y orientado a resultados, siempre buscando la mejor solución técnica y estética para cada proyecto. Me gusta colaborar en ambientes dinámicos donde pueda aportar y aprender al mismo tiempo.
 
