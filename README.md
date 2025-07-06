@@ -68,38 +68,14 @@ Cuento con experiencia práctica en integración de APIs REST, consumo de servic
 
 ---
 
-## 💼 Experiencia Laboral
+💼 Experiencia Laboral
+🚀 Teaching Assistant — Bootcamp Desarrollo Web, Soy Henry
+Como Teaching Assistant en el bootcamp de Soy Henry, acompañé de cerca a un grupo de futuros desarrolladores en su proceso formativo, brindando mentoría técnica, motivación constante y apoyo en la resolución de desafíos reales. Colaboré activamente en la revisión de código, la implementación de buenas prácticas y la construcción de interfaces accesibles, responsivas y escalables utilizando tecnologías como React, Next.js, TypeScript, Tailwind CSS y fundamentos sólidos de UI/UX.
 
-### 🚀 Teaching Assistant — Bootcamp Desarrollo Web, Soy Henry
+Mi enfoque estuvo centrado en potenciar la autonomía, el pensamiento crítico y el trabajo en equipo, creando un entorno colaborativo donde los estudiantes pudieran superar bloqueos técnicos, desarrollar confianza en sus habilidades y alcanzar sus objetivos semanales. Esta experiencia fortaleció mi capacidad para comunicarme de manera clara, resolver problemas en tiempo real y liderar procesos de aprendizaje técnico con impacto tangible.
 
-Desempeñé el rol de Teaching Assistant en el bootcamp de desarrollo web de Soy Henry, liderando y acompañando de forma cercana a un grupo de nuevos desarrolladores en su proceso de formación y construcción de proyectos reales.
-
-**🎯 Funciones principales:**
-
-- Mentoría personalizada para ayudar a los alumnos a cumplir con los proyectos propuestos.
-- Resolución de problemas técnicos en tiempo real y orientación en buenas prácticas.
-- Asistencia en HTML, CSS, TypeScript, React, Next.js, Tailwind CSS y fundamentos de UI/UX.
-- Motivación constante fomentando colaboración, pensamiento crítico y autonomía.
-- Revisión de código y apoyo en interfaces accesibles, responsivas y escalables.
-- Guía en solución de errores para fomentar el entendimiento profundo y autonomía.
-
-**🏆 Logros destacados:**
-
-- Fortalecí la confianza y autonomía de estudiantes en entornos reales.
-- Contribuí a la mejora de calidad del código y estructura de interfaces.
-- Establecí un ambiente colaborativo para alcanzar objetivos semanales con éxito.
-- Ayudé a superar bloqueos técnicos complejos promoviendo la resolución independiente.
-- Recibí feedback positivo por cercanía, claridad y motivación.
-
-**🛠️ Aptitudes desarrolladas:**  
-Liderazgo · Mentoría · Resolución de problemas · React.js · Tailwind CSS · Trabajo en equipo · Aprendizaje colaborativo
-
----
-
-## 📫 Contacto
-
-Estoy abierto a nuevas oportunidades y desafíos.  
-No dudes en escribirme para conversar sobre cómo puedo aportar a tu equipo y seguir creciendo como profesional.
+📫 Contacto
+Estoy buscando formar parte de un equipo donde pueda aportar valor como Desarrollador Web Frontend, seguir aprendiendo, compartir conocimientos y construir productos de calidad. Si estás buscando a alguien comprometido con el código limpio, la experiencia del usuario y el trabajo colaborativo, ¡conversemos!
 
 - 📧 **Email:** matidiazargentino21@gmail.com  
 - 💼 **LinkedIn:** [matias-diaz-a65a91328](https://www.linkedin.com/in/matias-diaz-a65a91328/)
