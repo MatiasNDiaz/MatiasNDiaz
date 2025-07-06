@@ -9,9 +9,7 @@
 
 ## 🧠 Quién soy
 
-Soy un Desarrollador web con enfoque en frontend, especializado en la construcción y diseño de interfaces modernas, intuitivas y responsivas. con mentalidad de crecimiento, perseverante y resolutivo, con gran capacidad para el trabajo en equipo. Me apasiona aprender constantemente y superar desafíos que me permitan evolucionar tanto profesional como personalmente.
-
-Me caracterizo por ser adaptable, proactivo y orientado a resultados, siempre buscando la mejor solución técnica y estética para cada proyecto. Me gusta colaborar en ambientes dinámicos donde pueda aportar y aprender al mismo tiempo.
+Soy desarrollador frontend con orientación a diseño y experiencia de usuario. Me enfoco en construir interfaces limpias, accesibles y funcionales usando tecnologías modernas. Me gusta trabajar en equipo, compartir conocimientos y seguir aprendiendo cada día.
 
 ---
 
@@ -20,6 +18,37 @@ Me caracterizo por ser adaptable, proactivo y orientado a resultados, siempre bu
 Me especializo en construir sitios web visualmente atractivos, modernos, responsivos y centrados en la experiencia del usuario. Aplico buenas prácticas de UI/UX para garantizar que cada interacción sea fluida, cómoda y efectiva.
 
 ---
+
+## ⚙️  Mi Stack Tecnológico
+
+### 🧩 Tecnologías Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+
+### 🔷 Lenguajes
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+
+### ⚛️ Frameworks & Librerías
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+
+### 🌐 Backend & Entornos
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
+
+### 🛠️ Herramientas y servicios
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=fff)
+
+### 🗄️ Base de datos y ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+![TypeORM](https://img.shields.io/badge/TypeORM-E83561?style=for-the-badge&logo=typeorm&logoColor=fff)
+
 
 ## 🌟 Proyectos destacados
 
@@ -46,50 +75,14 @@ Quiero formar parte de equipos que valoren la calidad del código, la usabilidad
 
 ---
 
-## ⚙️  Mi Stack Tecnológico
-
-### 🧩 Tecnologías Web
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-
-### 🔷 Lenguajes
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-
-### ⚛️ Frameworks & Librerías
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-
-
-### 🌐 Backend & Entornos
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
-
-
-### 🛠️ Herramientas y servicios
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=fff)
-
-### 🗄️ Base de datos y ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
-![TypeORM](https://img.shields.io/badge/TypeORM-E83561?style=for-the-badge&logo=typeorm&logoColor=fff)
-
-Cuento con experiencia práctica en integración de APIs REST, consumo de servicios externos y manejo de bases de datos relacionales con PostgreSQL. Me adapto rápido a nuevas tecnologías y frameworks según el proyecto.
-
----
-
 ## 💼 Experiencia laboral
 
-🚀 Teaching Assistant — Bootcamp Desarrollo Web, Soy Henry
-Como Teaching Assistant en el bootcamp de Soy Henry, acompañé de cerca a un grupo de futuros desarrolladores en su proceso formativo, brindando mentoría técnica, motivación constante y apoyo en la resolución de desafíos reales. Colaboré activamente en la revisión de código, la implementación de buenas prácticas y la construcción de interfaces accesibles, responsivas y escalables utilizando tecnologías como React, Next.js, TypeScript, Tailwind CSS y fundamentos sólidos de UI/UX.
-
-Mi enfoque estuvo centrado en potenciar la autonomía, el pensamiento crítico y el trabajo en equipo, creando un entorno colaborativo donde los estudiantes pudieran superar bloqueos técnicos, desarrollar confianza en sus habilidades y alcanzar sus objetivos semanales. Esta experiencia fortaleció mi capacidad para comunicarme de manera clara, resolver problemas en tiempo real y liderar procesos de aprendizaje técnico con impacto tangible.
+🚀 **Henry | Teaching Assistant (Frontend)**  
+Asistí a estudiantes en el desarrollo de proyectos utilizando React, Next.js, TypeScript y Tailwind. Reforcé conceptos clave, resolví dudas técnicas, corregí código y acompañé el proceso de aprendizaje. También promoví buenas prácticas, colaboración y lógica de programación.
 
 ---
+
+
 
 ## 📫 Contacto
 
@@ -97,3 +90,17 @@ Estoy buscando formar parte de un equipo donde pueda aportar valor como Desarrol
 
 - 📧 **Email:** matidiazargentino21@gmail.com  
 - 💼 **LinkedIn:** [matias-diaz-a65a91328](https://www.linkedin.com/in/matias-diaz-a65a91328/)
+
+
+---
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MatiasNDiaz&show_icons=true&border_radius=12&layout=compact&bg_color=F9A03F,1c263b,161b2c&title_color=f472b6&icon_color=facc15&text_color=f472b6&hide_border=true" 
+    alt="Matías Díaz GitHub Stats"
+    width="460"
+  />
+</p>
+
+
+
