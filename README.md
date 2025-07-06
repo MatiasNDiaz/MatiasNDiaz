@@ -69,7 +69,8 @@ Cuento con experiencia práctica en integración de APIs REST, consumo de servic
 ---
 
 ## 💼 Experiencia laboral
----
+
+
 🚀 Teaching Assistant — Bootcamp Desarrollo Web, Soy Henry
 Como Teaching Assistant en el bootcamp de Soy Henry, acompañé de cerca a un grupo de futuros desarrolladores en su proceso formativo, brindando mentoría técnica, motivación constante y apoyo en la resolución de desafíos reales. Colaboré activamente en la revisión de código, la implementación de buenas prácticas y la construcción de interfaces accesibles, responsivas y escalables utilizando tecnologías como React, Next.js, TypeScript, Tailwind CSS y fundamentos sólidos de UI/UX.
 
